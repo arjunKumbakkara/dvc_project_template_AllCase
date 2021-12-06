@@ -11,9 +11,9 @@ LIST_OF_REQUIREMENTS = []
 
 
 setup(
-    name=SRC_REPO,
+    name="DVC",
     version="0.0.1",
-    author=Arjun Kumbakkara,
+    author="Arjun Kumbakkara",
     description="A small package for DVC",
     long_description=long_description,
     long_description_content_type="text/markdown",
