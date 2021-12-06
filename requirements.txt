@@ -4,7 +4,7 @@ dvc
 pandas
 numpy
 PyYAML
-Scipyu
+Scipy
 scikit-learn
 lxml
 
